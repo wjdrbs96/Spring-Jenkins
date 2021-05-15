@@ -11,6 +11,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String hello() {
-        return "DDD 직군세션";
+        return "DDD ~~~";
     }
 }
